@@ -1,3 +1,7 @@
+# Climate Analysis Toolkit
+
+This is a set of python scripts designed to analyse climate datafiles.
+
 import sys
 import temp_conversion
 import signal
